@@ -1,3 +1,4 @@
 Step 1: Choose the pizza place
 Step 3: Choose your pizza
-Step 3 Eat
+Step 3: Wait on the pizza
+Stop 4: Eat
